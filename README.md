@@ -1,7 +1,6 @@
 # Youtube_Video_Downloader
-![image](https://user-images.githubusercontent.com/56937775/129455848-60deb970-9492-4541-accd-1a6103ebf415.png)
+![image](https://user-images.githubusercontent.com/56937775/129455895-5df15848-096b-46ab-be05-b1600743ad68.png)
 
-![image](https://user-images.githubusercontent.com/56937775/129455858-54beb148-0a61-46d5-a003-6223fedd6804.png)
-
-![image](https://user-images.githubusercontent.com/56937775/129455867-54e2bd2a-7149-43a1-a368-54a1fd4530e5.png)
+![image](https://user-images.githubusercontent.com/56937775/129455898-f53f8edc-88e5-48b2-aff7-0200b77b6b93.png)
+![image](https://user-images.githubusercontent.com/56937775/129455904-531f8f05-8122-400e-bd03-cbc563268a2f.png)
 
